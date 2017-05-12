@@ -1,925 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d585828-78f4-4a8f-87b9-42d8c5e586b8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/accordion-plusminus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/admin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/ajax-loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/ajax-modal-loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/datatable-row-openclose.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/input-spinner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/loading-spinner-blue.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/loading-spinner-default.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/loading-spinner-grey.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/logo-big-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/logo-default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/overlay-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/portlet-collapse-icon-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/portlet-collapse-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/portlet-config-icon-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/portlet-config-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/portlet-expand-icon-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/portlet-expand-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/portlet-reload-icon-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/portlet-reload-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/portlet-remove-icon-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/portlet-remove-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/remove-icon-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/sidebar-toggler-inverse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/sidebar-toggler.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/aboutme.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/amazon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/behance.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/blogger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/deviantart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/dribbble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/dropbox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/evernote.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/flickr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/forrst.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/foursquare.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/github.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/googleplus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/gravatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/instagram.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/jolicloud.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/klout.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/last-fm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/linkedin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/myspace.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/picasa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/pintrest.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/quora.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/reddit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/rss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/skype.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/spotify.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/stumbleupon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/tumblr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/vimeo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/vk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/wordpress.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/xing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/yahoo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/social/youtube.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/syncfusion-icons-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/img/syncfusion-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/Doraemon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/ajax-loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/ajax-modal-loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/arrow-down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/avatar1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/avatar10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/avatar11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/avatar1_small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/avatar2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/avatar3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/avatar3_small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/avatar4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/avatar5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/avatar6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/avatar7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/avatar8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/avatar9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/hor-menu-red-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/icon-color-close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/icon-color.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/icon-img-down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/icon-img-up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/inbox-nav-arrow-blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/loading-spinner-blue.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/loading-spinner-default.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/loading-spinner-grey.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/logo-banggood.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/logo-big-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/logo-big.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/logo-default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/menu-toggler.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/photo1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/photo2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/remove-icon-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/search_icon_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar-menu-arrow-reverse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar-menu-arrow-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar-menu-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar-toggler-inverse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar-toggler.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar_arrow_icon_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar_arrow_icon_light_rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar_inline_toggler_icon_blue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar_inline_toggler_icon_darkblue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar_inline_toggler_icon_default.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar_inline_toggler_icon_grey.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar_inline_toggler_icon_light.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar_inline_toggler_icon_light2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar_toggler_icon_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar_toggler_icon_darkblue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar_toggler_icon_default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar_toggler_icon_grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar_toggler_icon_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/img/sidebar_toggler_icon_light2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/pages/img/China.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/pages/img/duola.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/pages/img/wow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/swf/flashExport.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/images/Sorting icons.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/images/sort_asc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/images/sort_asc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/images/sort_both.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/images/sort_desc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/images/sort_desc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/jstree-bootstrap-theme/themes/default-dark/32px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/jstree-bootstrap-theme/themes/default-dark/40px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/jstree-bootstrap-theme/themes/default-dark/throbber.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/jstree-bootstrap-theme/themes/default/32px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/jstree-bootstrap-theme/themes/default/32px_line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/jstree-bootstrap-theme/themes/default/32px_original.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/jstree-bootstrap-theme/themes/default/40px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/jstree-bootstrap-theme/themes/default/throbber.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/org/together/merlion/MerlionApplication.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/org/together/merlion/ServletInitializer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/org/together/merlion/config/WebContextConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/org/together/merlion/controller/MerlionController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/accordion-plusminus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/admin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/ajax-loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/ajax-modal-loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/datatable-row-openclose.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/input-spinner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/loading-spinner-blue.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/loading-spinner-default.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/loading-spinner-grey.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/logo-big-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/logo-default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/overlay-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/portlet-collapse-icon-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/portlet-collapse-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/portlet-config-icon-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/portlet-config-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/portlet-expand-icon-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/portlet-expand-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/portlet-reload-icon-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/portlet-reload-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/portlet-remove-icon-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/portlet-remove-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/remove-icon-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/sidebar-toggler-inverse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/sidebar-toggler.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/aboutme.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/amazon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/behance.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/blogger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/deviantart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/dribbble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/dropbox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/evernote.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/flickr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/forrst.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/foursquare.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/github.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/googleplus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/gravatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/instagram.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/jolicloud.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/klout.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/last-fm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/linkedin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/myspace.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/picasa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/pintrest.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/quora.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/reddit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/rss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/skype.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/spotify.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/stumbleupon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/tumblr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/vimeo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/vk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/wordpress.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/xing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/yahoo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/social/youtube.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/syncfusion-icons-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/img/syncfusion-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/Doraemon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/ajax-loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/ajax-modal-loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/arrow-down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/avatar1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/avatar10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/avatar11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/avatar1_small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/avatar2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/avatar3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/avatar3_small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/avatar4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/avatar5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/avatar6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/avatar7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/avatar8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/avatar9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/hor-menu-red-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/icon-color-close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/icon-color.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/icon-img-down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/icon-img-up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/inbox-nav-arrow-blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/loading-spinner-blue.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/loading-spinner-default.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/loading-spinner-grey.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/logo-banggood.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/logo-big-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/logo-big.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/logo-default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/menu-toggler.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/photo1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/photo2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/remove-icon-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/search_icon_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar-menu-arrow-reverse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar-menu-arrow-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar-menu-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar-toggler-inverse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar-toggler.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar_arrow_icon_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar_arrow_icon_light_rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar_inline_toggler_icon_blue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar_inline_toggler_icon_darkblue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar_inline_toggler_icon_default.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar_inline_toggler_icon_grey.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar_inline_toggler_icon_light.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar_inline_toggler_icon_light2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar_toggler_icon_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar_toggler_icon_darkblue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar_toggler_icon_default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar_toggler_icon_grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar_toggler_icon_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/img/sidebar_toggler_icon_light2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/pages/img/China.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/pages/img/duola.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/pages/img/wow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/swf/flashExport.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/images/Sorting icons.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/images/sort_asc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/images/sort_asc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/images/sort_both.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/images/sort_desc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/images/sort_desc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/jstree-bootstrap-theme/themes/default-dark/32px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/jstree-bootstrap-theme/themes/default-dark/40px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/jstree-bootstrap-theme/themes/default-dark/throbber.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/jstree-bootstrap-theme/themes/default/32px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/jstree-bootstrap-theme/themes/default/32px_line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/jstree-bootstrap-theme/themes/default/32px_original.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/jstree-bootstrap-theme/themes/default/40px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/jstree-bootstrap-theme/themes/default/throbber.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-api/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-common/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/java/org/together/merlion/MerlionApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/java/org/together/merlion/ServletInitializer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/java/org/together/merlion/config/WebContextConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/java/org/together/merlion/config/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/java/org/together/merlion/controller/MerlionController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/java/org/together/merlion/controller/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/config/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/config/mybatis-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/config/dataTables-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/config/datepicker3-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/config/daterangepicker-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/config/flatpickr-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/config/jquery-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/config/select2-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/config/toastr-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/config/validation-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/css/components-rounded.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/css/components.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/css/plugins.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/scripts/app.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/global/scripts/quick-sidebar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/global/scripts/quick-sidebar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/css/layout.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/css/themes/default.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/scripts/demo.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/layouts/layout3/scripts/layout.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/pages/controllers/DashboardController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/pages/directives.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/pages/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/pages/scripts/dashboard.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/Contributing.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/ISSUE_TEMPLATE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.bootstrap4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.bootstrap4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.foundation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.jqueryui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.jqueryui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.semanticui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.semanticui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/dataTables.autoFill.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/dataTables.autoFill.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/css/common.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/css/mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.bootstrap4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.bootstrap4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.colVis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.colVis.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.flash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.flash.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.foundation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.html5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.html5.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.jqueryui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.jqueryui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.print.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.print.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.semanticui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.semanticui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/dataTables.buttons.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Buttons/js/dataTables.buttons.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/ColReorder/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/ColReorder/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/ColReorder/js/dataTables.colReorder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/ColReorder/js/dataTables.colReorder.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedColumns/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedColumns/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedColumns/js/dataTables.fixedColumns.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedColumns/js/dataTables.fixedColumns.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedHeader/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedHeader/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedHeader/js/dataTables.fixedHeader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/FixedHeader/js/dataTables.fixedHeader.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/KeyTable/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/KeyTable/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/KeyTable/js/dataTables.keyTable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/KeyTable/js/dataTables.keyTable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/js/dataTables.responsive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/js/dataTables.responsive.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.bootstrap4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.bootstrap4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.foundation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.jqueryui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.jqueryui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.semanticui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.semanticui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowGroup/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowGroup/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowGroup/js/dataTables.rowGroup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowGroup/js/dataTables.rowGroup.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowReorder/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowReorder/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/semanticui.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowReorder/js/dataTables.rowReorder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/RowReorder/js/dataTables.rowReorder.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Scroller/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Scroller/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Scroller/js/dataTables.scroller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Scroller/js/dataTables.scroller.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Select/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Select/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Select/css/select.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Select/css/select.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Select/css/select.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Select/css/select.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Select/css/select.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Select/css/select.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Select/css/select.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Select/css/select.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Select/css/select.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Select/css/select.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Select/css/select.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Select/css/select.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Select/js/dataTables.select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/extensions/Select/js/dataTables.select.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/css/dataTables.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/css/dataTables.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/css/dataTables.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/css/dataTables.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/css/dataTables.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/css/dataTables.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/css/dataTables.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/css/dataTables.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/css/dataTables.material.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/css/dataTables.material.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/css/dataTables.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/css/dataTables.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/css/dataTables.uikit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/css/dataTables.uikit.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/css/jquery.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/css/jquery.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/css/jquery.dataTables_themeroller.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/js/dataTables.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/js/dataTables.bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/js/dataTables.bootstrap4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/js/dataTables.bootstrap4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/js/dataTables.foundation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/js/dataTables.foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/js/dataTables.jqueryui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/js/dataTables.jqueryui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/js/dataTables.material.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/js/dataTables.material.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/js/dataTables.semanticui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/js/dataTables.semanticui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/js/dataTables.uikit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/js/dataTables.uikit.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/js/jquery.dataTables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/js/jquery.dataTables.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/DataTables/1.10.15/media/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/jstree-bootstrap-theme/themes/default-dark/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/jstree-bootstrap-theme/themes/default-dark/style.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/jstree-bootstrap-theme/themes/default/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/jstree-bootstrap-theme/themes/default/style.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/simple-line-icons/2.4.1/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/simple-line-icons/2.4.1/CODE_OF_CONDUCT.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/simple-line-icons/2.4.1/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/simple-line-icons/2.4.1/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/simple-line-icons/2.4.1/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/simple-line-icons/2.4.1/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/simple-line-icons/2.4.1/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/simple-line-icons/2.4.1/css/simple-line-icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/simple-line-icons/2.4.1/less/simple-line-icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/simple-line-icons/2.4.1/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/static/plugins/simple-line-icons/2.4.1/scss/simple-line-icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/templates/includes/plugin-links.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/templates/includes/plugin-scripts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/templates/pages/error/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/templates/pages/error/404_full.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/templates/pages/error/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/src/main/resources/templates/pages/error/500_full.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/config/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/config/mybatis-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/config/dataTables-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/config/datepicker3-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/config/daterangepicker-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/config/flatpickr-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/config/jquery-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/config/select2-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/config/toastr-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/config/validation-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/css/components-rounded.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/css/components.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/css/plugins.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/scripts/app.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/global/scripts/quick-sidebar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/global/scripts/quick-sidebar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/css/layout.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/css/themes/default.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/scripts/demo.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/layouts/layout3/scripts/layout.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/pages/controllers/DashboardController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/pages/directives.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/pages/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/pages/scripts/dashboard.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/Contributing.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/ISSUE_TEMPLATE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/css/autoFill.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.bootstrap4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.bootstrap4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.foundation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.jqueryui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.jqueryui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.semanticui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/autoFill.semanticui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/dataTables.autoFill.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/AutoFill/js/dataTables.autoFill.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/css/buttons.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/css/common.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/css/mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.bootstrap4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.bootstrap4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.colVis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.colVis.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.flash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.flash.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.foundation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.html5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.html5.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.jqueryui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.jqueryui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.print.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.print.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.semanticui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/buttons.semanticui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/dataTables.buttons.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Buttons/js/dataTables.buttons.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/ColReorder/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/ColReorder/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/ColReorder/css/colReorder.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/ColReorder/js/dataTables.colReorder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/ColReorder/js/dataTables.colReorder.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedColumns/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedColumns/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedColumns/css/fixedColumns.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedColumns/js/dataTables.fixedColumns.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedColumns/js/dataTables.fixedColumns.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedHeader/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedHeader/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedHeader/css/fixedHeader.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedHeader/js/dataTables.fixedHeader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/FixedHeader/js/dataTables.fixedHeader.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/KeyTable/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/KeyTable/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/KeyTable/css/keyTable.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/KeyTable/js/dataTables.keyTable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/KeyTable/js/dataTables.keyTable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/css/responsive.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/js/dataTables.responsive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/js/dataTables.responsive.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.bootstrap4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.bootstrap4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.foundation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.jqueryui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.jqueryui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.semanticui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Responsive/js/responsive.semanticui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowGroup/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowGroup/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowGroup/css/rowGroup.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowGroup/js/dataTables.rowGroup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowGroup/js/dataTables.rowGroup.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowReorder/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowReorder/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/rowReorder.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowReorder/css/semanticui.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowReorder/js/dataTables.rowReorder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/RowReorder/js/dataTables.rowReorder.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Scroller/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Scroller/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Scroller/css/scroller.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Scroller/js/dataTables.scroller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Scroller/js/dataTables.scroller.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Select/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Select/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Select/css/select.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Select/css/select.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Select/css/select.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Select/css/select.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Select/css/select.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Select/css/select.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Select/css/select.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Select/css/select.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Select/css/select.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Select/css/select.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Select/css/select.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Select/css/select.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Select/js/dataTables.select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/extensions/Select/js/dataTables.select.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/css/dataTables.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/css/dataTables.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/css/dataTables.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/css/dataTables.bootstrap4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/css/dataTables.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/css/dataTables.foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/css/dataTables.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/css/dataTables.jqueryui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/css/dataTables.material.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/css/dataTables.material.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/css/dataTables.semanticui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/css/dataTables.semanticui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/css/dataTables.uikit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/css/dataTables.uikit.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/css/jquery.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/css/jquery.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/css/jquery.dataTables_themeroller.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/js/dataTables.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/js/dataTables.bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/js/dataTables.bootstrap4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/js/dataTables.bootstrap4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/js/dataTables.foundation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/js/dataTables.foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/js/dataTables.jqueryui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/js/dataTables.jqueryui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/js/dataTables.material.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/js/dataTables.material.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/js/dataTables.semanticui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/js/dataTables.semanticui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/js/dataTables.uikit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/js/dataTables.uikit.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/js/jquery.dataTables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/js/jquery.dataTables.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/DataTables/1.10.15/media/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/jstree-bootstrap-theme/themes/default-dark/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/jstree-bootstrap-theme/themes/default-dark/style.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/jstree-bootstrap-theme/themes/default/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/jstree-bootstrap-theme/themes/default/style.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/simple-line-icons/2.4.1/CODE_OF_CONDUCT.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/simple-line-icons/2.4.1/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/simple-line-icons/2.4.1/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/simple-line-icons/2.4.1/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/simple-line-icons/2.4.1/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/simple-line-icons/2.4.1/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/simple-line-icons/2.4.1/css/simple-line-icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/simple-line-icons/2.4.1/less/simple-line-icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/simple-line-icons/2.4.1/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/static/plugins/simple-line-icons/2.4.1/scss/simple-line-icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/templates/includes/plugin-links.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/templates/includes/plugin-scripts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/templates/pages/error/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/templates/pages/error/404_full.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/templates/pages/error/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-console/target/classes/templates/pages/error/500_full.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-login/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-server/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-service/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merlion-webjars/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-    </list>
+    <list default="true" id="6d585828-78f4-4a8f-87b9-42d8c5e586b8" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/merlion-service/target/" />
     <ignored path="$PROJECT_DIR$/merlion-webjars/target/" />
     <ignored path="$PROJECT_DIR$/merlion-common/target/" />
@@ -1078,6 +160,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1094,7 +177,6 @@
       </pane>
       <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1696,7 +778,12 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
-      <method />
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="merlion-console:war exploded" />
+        </option>
+      </method>
     </configuration>
     <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat" />
@@ -1723,11 +810,12 @@
       <workItem from="1494497591121" duration="1913000" />
       <workItem from="1494499575686" duration="1169000" />
       <workItem from="1494550878515" duration="181000" />
+      <workItem from="1494571735486" duration="17000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4323000" />
+    <option name="totallyTimeSpent" value="4340000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1740,6 +828,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1763,7 +852,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4171181" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21588486" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21801706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1792,6 +881,40 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/merlion-console/src/main/java/org/together/merlion/MerlionApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merlion-console/src/main/java/org/together/merlion/config/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merlion-console/src/main/java/org/together/merlion/config/WebContextConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="47" column="28" lean-forward="false" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merlion-console/src/main/java/org/together/merlion/ServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/merlion-console/src/main/java/org/together/merlion/MerlionApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
