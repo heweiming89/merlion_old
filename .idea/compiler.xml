@@ -12,7 +12,6 @@
         <module name="merlion-login" />
         <module name="merlion-server" />
         <module name="merlion-service" />
-        <module name="merlion-webjars" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,7 +22,6 @@
       <module name="merlion-login" target="1.8" />
       <module name="merlion-server" target="1.8" />
       <module name="merlion-service" target="1.8" />
-      <module name="merlion-webjars" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

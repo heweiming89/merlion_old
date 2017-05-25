@@ -9,7 +9,6 @@
       <module fileurl="file://$PROJECT_DIR$/merlion-login/merlion-login.iml" filepath="$PROJECT_DIR$/merlion-login/merlion-login.iml" />
       <module fileurl="file://$PROJECT_DIR$/merlion-server/merlion-server.iml" filepath="$PROJECT_DIR$/merlion-server/merlion-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/merlion-service/merlion-service.iml" filepath="$PROJECT_DIR$/merlion-service/merlion-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/merlion-webjars/merlion-webjars.iml" filepath="$PROJECT_DIR$/merlion-webjars/merlion-webjars.iml" />
     </modules>
   </component>
 </project>
