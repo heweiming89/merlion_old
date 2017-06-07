@@ -15,11 +15,12 @@
 
 	<properties>
 		<java.version>1.8</java.version>
+        <file.encoding>UTF-8</file.encoding>
 		<!-- 文件拷贝时的编码 -->
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<project.build.sourceEncoding>${file.encoding}</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>${file.encoding}</project.reporting.outputEncoding>
 		<!-- 编译时的编码 -->
-		<maven.compiler.encoding>UTF-8</maven.compiler.encoding>
+		<maven.compiler.encoding>${file.encoding}</maven.compiler.encoding>
 		<spring-framework.version>4.3.8.RELEASE</spring-framework.version>
 		<spring-platform.version>Brussels-SR2</spring-platform.version>
 		<spring-data.version>Ingalls-SR3 </spring-data.version>
@@ -29,6 +30,8 @@
 		<lucene.version>4.10.4</lucene.version>
 		<thymeleaf.version>3.0.6.RELEASE</thymeleaf.version>
 		<thymeleaf-layout-dialect.version>2.2.1</thymeleaf-layout-dialect.version>
+        
+        <springfox.version>2.7.0</springfox.version>
 	</properties>
 
 	<dependencyManagement>
@@ -65,7 +68,7 @@
 				<configuration>
 					<source>${java.version}</source>
 					<target>${java.version}</target>
-					<encoding>UTF-8</encoding>
+					<encoding>${file.encoding}</encoding>
 					<showDeprecation>true</showDeprecation>
 					<showWarnings>true</showWarnings>
 					<fork>true</fork>
@@ -99,5 +102,6 @@
 		<module>merlion-server</module>
 		<module>merlion-login</module>
 		<module>merlion-common</module>
+		<module>merlion-mock</module>
 	</modules>
 </project>
