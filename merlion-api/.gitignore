@@ -1,2 +1,4 @@
 /target/
 /merlion-api.iml
+/.classpath
+/.project
