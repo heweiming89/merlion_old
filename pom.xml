@@ -103,5 +103,6 @@
 		<module>merlion-login</module>
 		<module>merlion-common</module>
 		<module>merlion-mock</module>
+		<module>merlion-bpm</module>
 	</modules>
 </project>
